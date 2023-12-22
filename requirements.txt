@@ -1,5 +1,5 @@
-altair
+joblib
 numpy
 pandas
-pydeck
+scikit-learn
 streamlit
