@@ -48,6 +48,7 @@ Figure 1: Data Distribution by Year
 <img width="579" alt="year" src="https://github.com/li2244646433/device-price/assets/154277499/5f669b3a-0348-481d-8cfd-745a08ee5371">
 
 Figure 2: Data Distribution by Brand
-<img width="643" alt="brand" src="https://github.com/li2244646433/device-price/assets/154277499/49700fa3-c3b7-4c3b-a2b9-aa982262798b">
+<img width="476" alt="piechart" src="https://github.com/li2244646433/device-price/assets/154277499/98dc338f-931b-48d0-89d0-aa84326db831">
+
 
 
