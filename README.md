@@ -23,6 +23,7 @@ The model training process is documented in the Jupyter notebook `train_model.ip
 ## Web Application
 
 The web application is built using Streamlit, allowing users to input phone characteristics and receive price predictions instantly. It's designed to be user-friendly and accessible for both technical and non-technical users.
+<https://device-price-vgdhwcv5prxaawbbydhwh3.streamlit.app/>
 
 ### Running the Application
 
